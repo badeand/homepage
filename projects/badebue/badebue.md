@@ -12,21 +12,9 @@ Electronic instrument designed, constructed and programmed by me.
 ### Videos
 * [Test 20200430](https://www.youtube.com/watch?v=d4j33tDIAvo)
 
-```puml
-@startuml
-digraph foo {
-  rankdir=LR
-  
-  node [style=rounded, shape=box, width=1, height=1]
-  badebue [label="Badebue"]
-  panel [label="Badebue\nEurorack\nPanel"]
-  littlebits [label="Littlebits\nSynth kit"]
-  mother [label="Moog\nMother 32"]
+## Flow diagram
 
-  badebue -> panel -> littlebits -> mother
-}
-@enduml
-```
+![](./diagrams/flow.png "Flow")
 
 ### Bue drawings and renderings
 

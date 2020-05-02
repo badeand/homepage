@@ -1,0 +1,13 @@
+@startuml
+digraph foo {
+  rankdir=LR
+
+  node [style=rounded, shape=box, width=1, height=1]
+  badebue [label="Badebue"]
+  panel [label="Badebue\nEurorack\nPanel"]
+  littlebits [label="Littlebits\nSynth kit"]
+  mother [label="Moog\nMother 32"]
+
+  badebue -> panel -> littlebits -> mother
+}
+@enduml
