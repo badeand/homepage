@@ -4,7 +4,9 @@ sidebar: Projects
 showTitle: true
 ---
 
-The temporary exhibition Fuzz opened 20. October 2017 at Popsenteret in Oslo.
+# Fuzz / Popsenteret
+
+The temporary exhibition **Fuzz** opened 20. October 2017 at Popsenteret in Oslo.
 
 ![img](./fuzz_logo.jpg "img")
 
