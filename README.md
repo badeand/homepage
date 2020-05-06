@@ -14,7 +14,3 @@ showTitle: false
 | **LinkedIn profile**      |   [linkedin.com/in/badeand/](https://www.linkedin.com/in/badeand/)    | 
 | **GitHub profile**      |   [github.com/badeand/](https://github.com/badeand/)    | 
 
-
-## Projects
-* [Badebue](./projects/badebue/badebue.md)
-* [Fuzz](./projects/fuzz/fuzz.md)
