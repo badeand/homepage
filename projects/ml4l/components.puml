@@ -1,0 +1,17 @@
+@startuml
+
+
+
+package "outside computer" {
+[hand] -> [leap motion]
+}
+package "mac" {
+[leap motion] --> [leap motion to OSC converter]
+
+package "Max / Live" {
+[leap motion to OSC converter] --> [OSC receiver]
+[OSC receiver] -> [neural network]
+[neural network] -> [synth parameters]
+}
+}
+@enduml
