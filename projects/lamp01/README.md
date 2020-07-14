@@ -7,10 +7,21 @@ My first attempt at designing a lamp.
 
 The designs are open source, so you can easily and freely make one your own if you have access to a laser printer. Material thickness is 3 mm.
 
+## Renderings
+
 ![img](renderings/01.PNG "img")
 ![img](renderings/02.PNG "img")
 ![img](renderings/04.PNG "img")
 ![img](renderings/03.PNG "img")
+
+## Drawings
+
+
+![img](drawings/drawing_03.png "img")
+![img](drawings/drawing_02.png "img")
+![img](drawings/drawing_04.png "img")
+![img](drawings/drawing_05.png "img")
+![img](drawings/drawing_01.png "img")
 
 ## Credits
 The following designs were used in the rendered illustrations:
