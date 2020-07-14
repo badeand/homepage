@@ -5,7 +5,8 @@ I needed a lamp for the bedroom, and wanted to design my own.
 
 My first attempt at designing a lamp.
 
-The designs are open source, so you can easily and freely make one your own if you have access to a laser printer. Material thickness is 3 mm.
+The designs are open source, so you can easily and freely make one your own if you have access to a laser cutter.
+Material thickness is 3 mm.
 
 ## Renderings
 
