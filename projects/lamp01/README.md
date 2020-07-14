@@ -23,6 +23,12 @@ The designs are open source, so you can easily and freely make one your own if y
 ![img](drawings/drawing_05.png "img")
 ![img](drawings/drawing_01.png "img")
 
+## Files needed for laser cutting
+
+The following files can be used for laser cutting: 
+- [Source files](https://github.com/badeand/homepage/tree/master/projects/lamp01)
+
+
 ## Credits
 The following designs were used in the rendered illustrations:
 - [E27 lamp holder by Phil Maddox (June 10th, 2018)](https://grabcad.com/library/e27-lamp-holder-1)
