@@ -1,9 +1,3 @@
----
-title: Badebue
-sidebar: Projects
-showTitle: true
-
----
 
 ## Badebue
 

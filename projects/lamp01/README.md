@@ -1,10 +1,4 @@
 
----
-title: Fuzz
-sidebar: Projects
-showTitle: true
----
-
 # Lamp 01
 
 I needed a lamp for the bedroom, and wanted to design my own.
